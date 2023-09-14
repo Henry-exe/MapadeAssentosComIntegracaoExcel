@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapadeAssentosComExcel", "ReservaAvancado\MapadeAssentosComExcel.csproj", "{1F97E21A-C22F-4BA1-8DB2-78A07A7A7969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F97E21A-C22F-4BA1-8DB2-78A07A7A7969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F97E21A-C22F-4BA1-8DB2-78A07A7A7969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F97E21A-C22F-4BA1-8DB2-78A07A7A7969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F97E21A-C22F-4BA1-8DB2-78A07A7A7969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BFF0437-35FE-4F4A-B2F7-EA7C4C0F3143}
+	EndGlobalSection
+EndGlobal
