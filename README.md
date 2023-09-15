@@ -23,9 +23,6 @@ Este projeto foi desenvolvido em C# e permite aos usuários visualizar, reservar
 3. Certifique-se de que as referências para a biblioteca do Excel estejam corretamente configuradas.
 4. Compile e execute o projeto.
 
-## Configuração
-
-- Se houver configurações específicas necessárias para a integração com o Excel ou outras configurações importantes, forneça instruções claras aqui.
 
 ## Autor
 
